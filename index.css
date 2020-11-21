@@ -1,9 +1,22 @@
 body {
     background-color: #000000;
+    color: #fff;
 }
 
 .clock {
-    width: 100%;
-    height: 100%;
-    background-color: #bbffaa;
+    width: 1200px;
+    height: 600px;
+    font-size: 200px;
+    margin: 200px auto;
+}
+
+#time {
+    font-size: 300px;
+    
+}
+
+#date {
+    
+    text-align: center;
+
 }
